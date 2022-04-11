@@ -33,7 +33,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathikshetty2002&theme=radical&show_icons=true&locale=en&layout=compact" alt="prathikshetty2002" /></p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathikshetty2002&&theme=radical&show_icons=true&locale=en" alt="prathikshetty2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathikshetty2002&" alt="prathikshetty2002" /></p>

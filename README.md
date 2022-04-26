@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **prathikkshetty15@gmail.com**
 
-- ⚡ Fun fact **Deep learning is really deep !!**
+- ⚡ Fun fact **Deep learning is really Deep !!**
 
 <h3 align="left">Connect with me here🤩:</h3>
 <p align="left">

@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
-- 💬 Ask me about **Machine Learning , Linux and Open Source**
+- 💬 Ask me about **Machine Learning , Linux & Open Source**
 
 - 📫 How to reach me **prathikkshetty15@gmail.com**
 

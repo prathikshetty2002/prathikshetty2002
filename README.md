@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Tensorflow , Flask , React**
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on **Machine Learning & Web**
 
 - 💬 Ask me about **Machine Learning , Linux & Open Source**
 

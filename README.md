@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Machine Learning , Linux & Open Source**
 
-- 📫 How to reach me **prathikkshetty15@gmail.com**
+- 📫 How to reach me **linuxmint78@gmail.com**
 
 - ⚡ Fun fact -  **Deep learning is really Deep :)**
 

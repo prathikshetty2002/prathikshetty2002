@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Machine-Learning-Roadmap**
 
-- 🌱 I’m currently learning **TensorFlow , Flask & React**
+- 🌱 I’m currently learning **TensorFlow , Django & React**
 
 - 👯 I’m looking to collaborate on **Machine Learning Dev**
 

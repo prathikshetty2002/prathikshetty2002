@@ -9,9 +9,10 @@
 <!-- <p align="left"> <a href="https://twitter.com/i_am_prathik" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_prathik?logo=twitter&style=for-the-badge" alt="i_am_prathik" /></a> </p> -->
 
 
-- 🌱 I’m currently learning **TensorFlow , Django & React**
 
-- 👯 I’m looking to collaborate on **Machine Learning Dev**
+- 👯 I’m looking to collaborate on **Machine Learning **
+
+- 🌱 I’m currently learning **TensorFlow , Django & React**
 
 - 💬 Ask me about **Machine Learning , Linux & Open Source**
 

@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **TensorFlow , Django & React**
 
-- 💬 Ask me about **Machine Learning , Linux & Open Source**
+- 💬 Ask me about **Machine Learning , Linux and Open Source**
 
 - 📫 How to reach me **linuxmint78@gmail.com**
 

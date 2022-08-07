@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **linuxmint78@gmail.com**
 
-- ⚡ Fun fact -  **Deep learning is really deep xd :)**
+- ⚡ Fun fact -  **Deep learning is really Deep xd :)**
 
 <h3 align="left">Connect with me 🤩:</h3>
 <p align="left">

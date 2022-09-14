@@ -1,5 +1,5 @@
 ![MasterHead](https://www.pantechelearning.com/wp-content/uploads/2020/08/machinelearning-banner.jpg)
-<h1 align="center">Hey Folks👋, I'm Prathik Shetty!</h1>
+<h1 align="center">Hello Folks👋, I'm Prathik Shetty!</h1>
 <h3 align="center">code, coffee & community❤️</h3>
 <img align="right" alt="coding" width="400" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif">
 

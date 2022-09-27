@@ -10,7 +10,7 @@
 
 
 
-- 👯 I’m looking to collab on **Machine Learning**
+- 👯 I’m looking to collab on **Community**
 
 - 🌱 I’m currently learning **TensorFlow , Django & React**
 

@@ -1,5 +1,5 @@
 ![MasterHead](banner1.jfif)
-<h1 align="center">Hello Folks!🙌, I'm Prathik Shetty!</h1>
+<h1 align="center">Hello Folks!🙌, I'm Prathik Shetty</h1>
 <h3 align="center">Code, Coffee & Community❤️</h3>
 <img align="right" alt="coding" width="350" src="99065-code-cantileverlabs-ilustration.gif">
 

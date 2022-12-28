@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathikshetty2002&label=Profile%20Visitors&color=0e75b6&style=flat" alt="prathikshetty2002" /> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/i_am_prathik" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_prathik?logo=twitter&style=for-the-badge" alt="i_am_prathik" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/i_am_prathik" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_prathik?logo=twitter&style=for-the-badge" alt="i_am_prathik" /></a> </p> 
 
 
 

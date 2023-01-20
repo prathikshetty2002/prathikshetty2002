@@ -1,6 +1,6 @@
 ![Banner](https://i.postimg.cc/mkLBg7mf/banner1.jpg)
 
-<h1 align="center">Hi folks🙌, I'm Prathik Shetty💫</h1>
+<h1 align="center">Hey folks🙌, I'm Prathik Shetty💫</h1>
 <h3 align="center">Building @Genosisx , Community Maintainer at Mindsdb</h3>
 <h3 align="center">Code, Coffee & Community❤️</h3>
 

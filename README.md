@@ -12,7 +12,7 @@
 
 # 💫 About Me:
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<br>👯 I’m looking to collab on Community & Content<br><br>🌱 I’m currently learning TensorFlow , Supabase & React<br><br>💬 Ask me about Machine Learning/AI , Linux and Open Source<br><br>📫 How to reach me linuxmint78@gmail.com<br><br>⚡ Fun fact -  Deep learning is really Deep haha :)<br>
+<br>👯 I’m looking to collab on Community & Content<br><br>🌱 I’m currently learning TensorFlow , Supabase & NextJS<br><br>💬 Ask me about Machine Learning/AI , Linux and Open Source<br><br>📫 How to reach me linuxmint78@gmail.com<br><br>⚡ Fun fact -  Deep learning is really Deep haha :)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathik-shetty15) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/I_am_prathik) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TechgeekPrathik) 
